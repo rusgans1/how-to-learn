@@ -231,7 +231,6 @@
 .feyman__img {
   width: 867px;
   height: 637px;
-  background-size: contain;
   position: absolute;
   left: 0;
   bottom: 0;
@@ -263,11 +262,11 @@
   width: 200px;
 }
 
-.section-title__theme_dark {
+.section-title_theme_dark {
   color: #fff;
 }
 
-.section-subtitle__theme_dark {
+.section-subtitle_theme_dark {
   color: #fff;
 }
 
