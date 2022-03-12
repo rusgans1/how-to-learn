@@ -41,10 +41,10 @@
 
 /*Блок Фейнмана*/
 @import url(../blocks/feynman/feynman.css);
-@import url(../blocks/feynman/__title/feyman__title.css);
-@import url(../blocks/feynman/__subtitle/feyman__subtitle.css);
-@import url(../blocks/feynman/__link/feyman__link.css);
-@import url(../blocks/feynman/__img/feyman__img.css);
+@import url(../blocks/feynman/__title/feynman__title.css);
+@import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
+@import url(../blocks/feynman/__link/feynman__link.css);
+@import url(../blocks/feynman/__img/feynman__img.css);
 
 /*Блок Цифры и факты*/
 @import url(../blocks/digits/digits.css);
