@@ -1,22 +1,4 @@
 .resources__logo {
-    width: 270px;
-    height: 38px;
-    background: center no-repeat;
-    background-size: contain;
-  }
-  
-  .resources__logo_arzamas {
-    background-image: url(../../../images/resources-arzamas.svg);
-  }
-  
-  .resources__logo_n1 {
-    background-image: url(../../../images/resources-n1.svg);
-  }
-  
-  .resources__logo_strelka {
-    background-image: url(../../../images/resources-strelka.svg);
-  }
-  
-  .resources__logo_polka {
-    background-image: url(../../../images/resources-polka.svg);
-  }
+  width: 270px;
+  height: 38px;
+}

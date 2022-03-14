@@ -1,9 +1,10 @@
 .header__title {
-    max-width: 730px;
-    line-height: 96px;
-    font-size: 102px;
-    font-weight: bold;
-    color: #000;
-    margin-left: 64px;
-    z-index: 2;
-  }
+  max-width: 730px;
+  line-height: 96px;
+  font-size: 102px;
+  font-weight: bold;
+  color: #000;
+  left: 64px;
+  position: absolute;
+  z-index: 2;
+}

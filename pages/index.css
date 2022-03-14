@@ -37,7 +37,7 @@
 
 /*История Барбары Оакли*/
 @import url(../blocks/oakley/oakley.css);
-@import url(../blocks/two-columns/__paragraph-oakley/two-columns__paragraph-oakley.css);
+@import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
 
 /*Блок Фейнмана*/
 @import url(../blocks/feynman/feynman.css);
@@ -68,16 +68,16 @@
 /*Блок Принципы обучения*/
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
-@import url(../blocks/table/__cell/_theme_dark/table__cell_theme_dark.css);
+@import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(../blocks/table/table_theme_dark.css);
-@import url(../blocks/section-title/_theme_dark/section-title_theme_dark.css);
-@import url(../blocks/section-subtitle/_theme_dark/section-subtitle_theme_dark.css);
-@import url(../blocks/table/__heading/_theme_dark/table__heading_theme_dark.css);
-@import url(../blocks/table/__text/_theme_dark/table__text_theme_dark.css);
+@import url(../blocks/section-title/_theme/section-title_theme_dark.css);
+@import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
+@import url(../blocks/table/__heading/_theme/table__heading_theme_dark.css);
+@import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
 
 /*Блок Полезные ресурсы*/
 @import url(../blocks/resources/resources.css);
-@import url(../blocks/resources/__zone/resources__zone.css);
+@import url(../blocks/resources/__zone/resources__logo-zone.css);
 @import url(../blocks/resources/__logo/resources__logo.css);
 
 /*Блок Подвал*/
